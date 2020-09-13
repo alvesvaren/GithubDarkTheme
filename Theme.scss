@@ -74,6 +74,10 @@ body {
     color: $NavTextColor !important;
 }
 
+.menu-item {
+    color: $NavTextColor !important;
+}
+
 .UnderlineNav-item:focus,
 .UnderlineNav-item:hover {
     color: $NavTextHoverColor-1 !important;
